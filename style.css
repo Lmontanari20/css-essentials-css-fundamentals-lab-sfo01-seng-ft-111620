@@ -28,7 +28,6 @@ p {
   text-align: center;
 }
 
-div#details {
+section#details {
   display:block;
-  float: left;
 }
