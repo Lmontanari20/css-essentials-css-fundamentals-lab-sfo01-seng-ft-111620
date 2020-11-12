@@ -37,4 +37,5 @@ section#details {
 }
 div{
   float:left;
+  margin-auto;
 }
