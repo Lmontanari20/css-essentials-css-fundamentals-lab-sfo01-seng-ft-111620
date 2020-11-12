@@ -25,7 +25,13 @@ nav > a {
   padding-right:10px;
 }
 
-#featured-property p, {
+figcaption {
+  font-size:80%;
+  margin:auto;
+  text-align:center;
+}
+
+#featured-property p{
   width: 800px;
   margin:auto;
   text-align: center;
