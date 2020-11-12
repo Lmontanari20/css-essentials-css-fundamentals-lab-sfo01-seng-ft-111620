@@ -11,8 +11,8 @@ h1 {
 }
 
 img {
-  margin-right: auto;
-  margin-left: auto;
+  display:block;
+  margin: 0 auto;
 }
 
 nav {
