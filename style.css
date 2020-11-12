@@ -44,6 +44,7 @@ h3 {
 
 #details {
   display:block;
+  background-color: red;
 }
 #details div{
   float:left;
