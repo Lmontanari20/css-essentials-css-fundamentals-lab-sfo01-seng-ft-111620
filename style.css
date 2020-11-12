@@ -21,3 +21,7 @@ navbar > a {
   padding-right:10px;
   background-color: #a6ada8;
 }
+
+p {
+  width: 800px;
+}
