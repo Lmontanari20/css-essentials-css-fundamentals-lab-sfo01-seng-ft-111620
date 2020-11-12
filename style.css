@@ -37,6 +37,6 @@ section#details {
 }
 div{
   float:left;
-  padding-left:100px;
-  padding-right:100px;
+  width:200px;
+  margin:auto;
 }
