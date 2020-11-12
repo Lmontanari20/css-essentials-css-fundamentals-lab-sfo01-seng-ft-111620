@@ -22,7 +22,7 @@ navbar > a {
   background-color: #a6ada8;
 }
 
-p {
+#featured-property {
   width: 800px;
   margin:auto;
   text-align: center;
