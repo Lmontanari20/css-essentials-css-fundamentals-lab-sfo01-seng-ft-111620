@@ -31,3 +31,6 @@ p {
 section#details {
   display:block;
 }
+div {
+  float:left;
+}
