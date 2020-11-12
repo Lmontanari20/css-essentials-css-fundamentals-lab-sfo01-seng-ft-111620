@@ -10,8 +10,6 @@ h1 {
   margin-right: auto;
 }
 
-
-
 nav {
   text-align:center;
 }
@@ -22,7 +20,7 @@ nav > a {
   padding-right:10px;
 }
 
-#featured-property {
+p.#featured-property {
   width: 800px;
   margin:auto;
   text-align: center;
