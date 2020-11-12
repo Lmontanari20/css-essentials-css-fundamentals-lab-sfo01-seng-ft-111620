@@ -38,14 +38,4 @@ figcaption {
   text-align: center;
 }
 
-h3 {
-  text-align:center;
-}
 
-#details {
-  display:block;
-  background-color: red;
-}
-#details div{
-  float:left;
-}
