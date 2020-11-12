@@ -17,9 +17,7 @@ img {
 }
 
 navbar > a {
-  padding-left:10px;
-  padding-right:10px;
-  background-color: #a6ada8;
+  background-color: #a6ada8
 }
 
 #featured-property {
