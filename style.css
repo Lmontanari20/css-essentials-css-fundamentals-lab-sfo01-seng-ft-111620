@@ -3,3 +3,21 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  width:400px;
+  margin-left:auto;
+  margin-right: auto;
+}
+
+img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+navbar > a {
+  padding-left:10px;
+  padding-right:10px;
+  background-color: #a6ada8;
+}
