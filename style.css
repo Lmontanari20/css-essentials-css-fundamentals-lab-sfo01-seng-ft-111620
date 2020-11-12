@@ -42,9 +42,9 @@ h3 {
   text-align:center;
 }
 
-#details section {
+#details {
   display:block;
 }
-div{
+#details div{
   float:left;
 }
